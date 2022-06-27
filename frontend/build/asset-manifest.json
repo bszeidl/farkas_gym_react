@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a67e8022.css",
+    "main.js": "/static/js/main.bd0a9810.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/Jump.png": "/static/media/Jump.431fcd637f2ab6d6f879.png",
+    "static/media/hero_breast_2.png": "/static/media/hero_breast_2.cdeeca4b97a67b74489c.png",
+    "static/media/screen_with_frame_1920x780.png": "/static/media/screen_with_frame_1920x780.1dd34413c12e9546cca5.png",
+    "static/media/swim_and_gym_breast_kick.png": "/static/media/swim_and_gym_breast_kick.9af88b1439903ca5bb3c.png",
+    "static/media/adjustable_angle.png": "/static/media/adjustable_angle.e58318099fa78e4a7588.png",
+    "static/media/leg_supportwo_background.png": "/static/media/leg_supportwo_background.0c2bae2f0e39c5d7847a.png",
+    "static/media/motorikus_kepessegek_svg.svg": "/static/media/motorikus_kepessegek_svg.15da033557c53d9c584a.svg",
+    "static/media/farkas_gym_logo_facebook_profile.png": "/static/media/farkas_gym_logo_facebook_profile.23ddf1f58ff1f08af647.png",
+    "index.html": "/index.html",
+    "static/media/arrow_up.svg": "/static/media/arrow_up.488078ec0f8cb001a356ae9023c0d3dd.svg",
+    "main.a67e8022.css.map": "/static/css/main.a67e8022.css.map",
+    "main.bd0a9810.js.map": "/static/js/main.bd0a9810.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a67e8022.css",
+    "static/js/main.bd0a9810.js"
+  ]
+}
